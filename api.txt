@@ -1,0 +1,2 @@
+googleAPI="AIzaSyBwxl46xxAWm9JvpV6v-YMi_82xj8szA3s"
+OpenAIapi="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"
